@@ -83,3 +83,13 @@ f
 6src/main/java/org/example/item_10_11/DenemeSinifi.java,4\3\43b9a577d4e9e0cdbe8607949129da6d1a9f4a10
 i
 9src/main/java/org/example/item_10_11/Item10and11Main.java,b\e\befd4df042a8736d7286b3b16cbcf55a9edc3102
+]
+-src/main/java/org/example/item_12/Item12.java,8\0\80f58ba83e2b9e2a23cd10e55c2fc97107e2a8e3
+a
+1src/main/java/org/example/item_12/Item12Main.java,2\1\21f4c8e29243d9453af0a39121f001cd59f0c16a
+^
+.src/main/java/org/example/item_12/Request.java,1\7\1726b361af957ac6f69f1f9c1bbdf322ebcf6a1c
+V
+&src/main/java/org/example/item_13.java,2\7\273afee612d08cf440ca3845d53bf59d9162153c
+a
+1src/main/java/org/example/item_13/Item13Main.java,4\b\4b4fc1b977ef145a81a6e35c832679660439d9cb
