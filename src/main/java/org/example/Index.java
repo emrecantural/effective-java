@@ -24,6 +24,4 @@ public class Index {
   Item10Main item10Main; //Overriding Equals and hashCode
 
 
-
-
 }
