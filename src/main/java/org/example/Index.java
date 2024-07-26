@@ -3,6 +3,8 @@ package org.example;
 import org.example.Item_6.Item6Main;
 import org.example.item_1.Item1Main;
 import org.example.item_10_11.Item10and11Main;
+import org.example.item_12.Item12Main;
+import org.example.item_13.Item13Main;
 import org.example.item_2.Item2Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
@@ -22,6 +24,8 @@ public class Index {
   Item7Main item7Main; //JMM Java Memory Management - Garbage Collection - memory leak
   Item8and9Main item8And9Main; //Try Catch Finally vs Try With Resource -Java Finalizers ve Cleaners
   Item10and11Main item10And11Main; //Overriding Equals and hashCode
+  Item12Main item12Main; //Java to String metodu
+  Item13Main item13Main; //Shallow Copy -Deep Copy - Java Clone Metot
 
 
 }
