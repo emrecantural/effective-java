@@ -1,0 +1,10 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(£¶îå8íüÿÄ2J$bc83dcb4-53a9-4cfd-92e2-bae6986505a7
+{
+java:S1172"3Remove this unused method parameter "defaultValue".(ÄˆÑÓıÿÿÿÿ8îüÿÄ2J$b8c3f815-3251-4197-a15a-eafeb1f9b571
+r
+java:S2093 "*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‚ıÿÄ2J$11731a9e-6132-4c9a-a508-2a94e62b25f1
+	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦²ïÃ8±İ‚Å2J$fca75373-ba24-4e02-bb96-f332c84f6c66
+p	java:S108A")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8Çœ„Å2J$92b75cf2-ee98-44ff-b371-a5ee06c2f67f
+p	java:S108D")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Çœ„Å2J$5b54b3c7-e4e7-4536-bf1e-a8a0ffe595da

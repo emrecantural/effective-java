@@ -1,0 +1,6 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(®ÃŞë8¾‡æ¦2J$9f214f21-f14f-489d-a1a6-b76d45182a09
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¯æ¦2J$c8a014b2-e474-42f9-90ac-bd7f968dfc32
+t
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8¯æ¦2J$5bb482b7-a6b6-404d-97eb-d11540ba2dc5

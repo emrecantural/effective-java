@@ -1,0 +1,13 @@
+
+œ
+java:S1104"TMake INSTANCE a static final constant or non-public and provide accessors if needed.(ãŽÃðøÿÿÿÿ8ƒ¥œ§Ž2J$88346423-efd5-40fc-a4af-0bca0cda43d8
+v
+java:S1444".Make this "public static INSTANCE" field final(ãŽÃðøÿÿÿÿ8„¥œ§Ž2J$6ae80aa1-a793-43f5-ad8f-a32fe5baa993
+›
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŽÃðøÿÿÿÿ8”á—§Ž2J$79ced9a5-54a8-472d-b101-3766d16ecc98
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ò‹¬Í8—á—§Ž2J$83c8b527-91b8-4138-9bcf-bed50af4180c
+|
+java:S3400"9Remove this method and declare a constant for this value.(§¼Éç8å·˜§Ž2J$8bcec6c8-8752-47c6-9760-c75eaba8e9b8
+m
+java:S1068"*Remove this unused "turkce" private field.(ò‹¬Í8—á—§Ž2J$30b9b715-5e27-408f-8220-1e408857f9d3

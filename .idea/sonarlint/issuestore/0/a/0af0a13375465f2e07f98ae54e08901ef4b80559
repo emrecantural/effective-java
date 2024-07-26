@@ -1,0 +1,19 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óñÏˆ8­¶Ú¨Ž2J$6d3d4064-c33f-44b2-9939-e9accd45c989
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ý×ßÛøÿÿÿÿ8­¶Ú¨Ž2J$6be3614b-6578-4b18-bec6-ccb96f0f7571
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ýéë¬üÿÿÿÿ8­¶Ú¨Ž2J$a1563d2b-28fc-49b8-95a9-3a5e734a61df
+
+java:S1192"GDefine a constant instead of duplicating this literal "Bikini" 3 times.(±ýú¼øÿÿÿÿ8®¶Ú¨Ž2J$d70dbe91-aa0f-4031-9ead-19db04397637
+h
+java:S2129" Remove this "String" constructor(±ýú¼øÿÿÿÿ8±¶Ú¨Ž2J$0d1c5959-0e22-4d6c-82de-29fe3d0e143f
+r	java:S106"+Replace this use of System.out by a logger.(Ý×ßÛøÿÿÿÿ8±¶Ú¨Ž2J$c8733fd1-d908-424c-8415-ec5f66a586c4
+r	java:S106"+Replace this use of System.out by a logger.(Ýéë¬üÿÿÿÿ8±¶Ú¨Ž2J$b1c9687a-de1a-4f7e-b36e-9cb2feac3190
+m	java:S1064"+Replace this use of System.out by a logger.(·—ß´8±¶Ú¨Ž2J$66176620-351d-4dcf-90b7-e935b7657cf9
+m	java:S1065"+Replace this use of System.out by a logger.(ªÉ¼ß8±¶Ú¨Ž2J$4b3021eb-ad32-43ec-87fc-0328424e86dd
+m	java:S1066"+Replace this use of System.out by a logger.(ñˆïÅ8±¶Ú¨Ž2J$f76ca9fd-b373-4922-9e31-a0ef81b03805
+r	java:S106E"+Replace this use of System.out by a logger.(¶­Å§ÿÿÿÿÿ8²¶Ú¨Ž2J$e70c5fda-bce9-46b5-913b-089656ee64a3
+r	java:S106P"+Replace this use of System.out by a logger.(ŽõÓÛûÿÿÿÿ8³¶Ú¨Ž2J$18ae8a73-d51b-48bf-8804-04be5cfd2985
+d
+java:S1116c"Remove this empty statement.(“û¹Œþÿÿÿÿ8´¶Ú¨Ž2J$ecc9f023-5884-423e-95a1-14f842ab9aff

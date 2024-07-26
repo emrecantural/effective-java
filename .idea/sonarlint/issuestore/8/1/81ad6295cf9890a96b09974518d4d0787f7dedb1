@@ -1,0 +1,5 @@
+
+“
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8üıËÍ2J$19a74064-b1bb-4fe0-87b1-c397f2a175b7
+a
+java:S1659"Declare "b" on a separate line.(¾ÇÇ'8ııËÍ2J$419063be-37d2-4df3-be53-8c17576ca4be

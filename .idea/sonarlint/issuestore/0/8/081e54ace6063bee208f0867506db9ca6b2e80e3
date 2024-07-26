@@ -1,0 +1,22 @@
+
+’
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§óùÿÿÿÿ8æÂ³Ä2J$03331e66-bd15-4a7d-81d1-4e59bb7921bb
+u
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ8æÂ³Ä2J$71c68097-ca8e-4afc-88e8-3ea419413628
+n
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ8æÂ³Ä2J$b9f2a829-585a-4421-9e7d-c39a1d6d3b66
+r	java:S106"+Replace this use of System.out by a logger.(Ö”‰Èÿÿÿÿÿ8çÂ³Ä2J$bc119f50-aacc-4c8b-8d6e-70579b4138ad
+
+java:S1854"7Remove this useless assignment to local variable "can".(È†İùÿÿÿÿ8çÂ³Ä2J$274ec6e0-6b94-4191-aaf6-5d8c289c9806
+z
+java:S1854"7Remove this useless assignment to local variable "can".(é‡Â¨8øç¸Ä2J$90a1e9b4-8cab-471b-882a-1dd5d147586b
+z
+java:S1854"7Remove this useless assignment to local variable "can".(é²á¾8çÂ³Ä2J$cc85f985-b840-499d-8989-2a17cf2c808c
+z
+java:S1854"8Remove this useless assignment to local variable "emre".(Ã·è8ø’¸Ä2J$21cf5244-330b-44f8-b548-618666ecfd66
+k
+java:S1481")Remove this unused "emre" local variable.(Ã·è8çÂ³Ä2J$26609632-36df-4c37-bcf3-5430d7bd4710
+k
+java:S1481"(Remove this unused "can" local variable.(é²á¾8çÂ³Ä2J$2b0f6349-9151-455a-9da1-25abbfbeb280
+œ
+java:S1215 "TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(”Ñíœúÿÿÿÿ8çÂ³Ä2J$3e36776f-59e7-48d1-a2ed-55f614716b70

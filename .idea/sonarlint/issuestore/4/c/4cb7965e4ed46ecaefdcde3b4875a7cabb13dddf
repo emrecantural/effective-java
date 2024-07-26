@@ -1,0 +1,17 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(õãÜ•8ÎÔÀÍ2J$026cacb2-607c-4843-bcad-1d8ad4481b48
+r	java:S106"+Replace this use of System.out by a logger.(¬¤Åşÿÿÿÿ8ÎÔÀÍ2J$cdad4f3c-3e6e-43e1-b42b-9f774ce40751
+r	java:S106"+Replace this use of System.out by a logger.(íÑ÷×ıÿÿÿÿ8ÏÔÀÍ2J$e9d37f7a-fda0-4719-9551-5d6c859c3487
+r	java:S106 "+Replace this use of System.out by a logger.(Ç‘¨şÿÿÿÿ8ÏÔÀÍ2J$350450a1-aee7-4e2d-98d0-de8999dd53bc
+p
+java:S1125 "(Remove the unnecessary boolean literals.(Ç‘¨şÿÿÿÿ8ÏÔÀÍ2J$e81839d0-80b3-4eb7-a144-457aeaddfe5b
+“
+java:S1764 "KCorrect one of the identical sub-expressions on both sides of operator "=="(Ç‘¨şÿÿÿÿ8ÏÔÀÍ2J$5313d1d9-fb7d-4d19-bd24-415495e9db7f
+r	java:S106$"+Replace this use of System.out by a logger.(Òº·÷ûÿÿÿÿ8ÏÔÀÍ2J$728f4983-49af-4aeb-b171-311d62a399fc
+r	java:S106&"+Replace this use of System.out by a logger.(…é‚ßÿÿÿÿÿ8ÏÔÀÍ2J$a73e8e2b-a8aa-421e-9cb3-fa920e03deaa
+r	java:S106'"+Replace this use of System.out by a logger.(®ô‡¼ıÿÿÿÿ8ÏÔÀÍ2J$1ecfb03e-c33d-4c24-8c24-5c6521a8ff30
+r	java:S106)"+Replace this use of System.out by a logger.(ÀÉÒªıÿÿÿÿ8ÏÔÀÍ2J$c439704e-f722-4eac-b9de-39660353191c
+r	java:S106Y"+Replace this use of System.out by a logger.(¦èÑÃøÿÿÿÿ8ÏÔÀÍ2J$39d06f15-1d6a-45bb-aea0-2bae70ea96e0
+m	java:S106Z"+Replace this use of System.out by a logger.(¡àã³8ÏÔÀÍ2J$0d2c8f15-6744-40a2-b4db-741898c3f1cf
+m	java:S106d"+Replace this use of System.out by a logger.(û´ÑÑ8ĞÔÀÍ2J$6d9ce0a5-1cab-4a63-bb43-c49ae6d2971e
+r	java:S106f"+Replace this use of System.out by a logger.(õË±»şÿÿÿÿ8ĞÔÀÍ2J$b8887b7c-17e5-455b-8661-8a35cbff7081

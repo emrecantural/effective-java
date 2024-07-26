@@ -1,0 +1,26 @@
+
+‚
+java:S1854&":Remove this useless assignment to local variable "turkce".(Ìü¼—ûÿÿÿÿ8»àÎ§2J$7ddf8ef5-5e50-472a-a00b-49a149344841
+x
+java:S1854"5Remove this useless assignment to local variable "a".(ıı°8»àÎ§2J$34491675-0b66-47d1-98dc-024104de3e11
+}
+java:S2209"5Change this instance-reference to a static reference.(€·ØÚÿÿÿÿÿ8¼àÎ§2J$e6f9b791-9dcd-4e79-a324-332d9a5f5bb1
+i
+java:S1481"&Remove this unused "a" local variable.(ıı°8¼àÎ§2J$7124632d-348d-4214-9c1b-dacfc0b450f8
+r	java:S106 "+Replace this use of System.out by a logger.(üõ÷Ëşÿÿÿÿ8¼àÎ§2J$2ecadbf9-31f5-4893-ad89-78813df5f1a5
+s
+java:S1481&"+Remove this unused "turkce" local variable.(Ìü¼—ûÿÿÿÿ8¼àÎ§2J$a4f8fcc5-b6e3-4342-b36f-7530d31c5486
+Â
+java:S1612."Replace this lambda with method reference 'YaziAnaliziUtility::enUzunKelimerlerleOlusturulmusBirMetotAdiOldugunuHayalEdiyoruz'.(Îê†8¼àÎ§2J$bdf9f32d-1c6a-4fe4-b24d-2c43ce57d9cd
+r	java:S1060"+Replace this use of System.out by a logger.(ÄÙ„éùÿÿÿÿ8¼àÎ§2J$57cdb8f6-af33-4490-884c-eddca52da1d8
+m	java:S1061"+Replace this use of System.out by a logger.(×÷â8¼àÎ§2J$d268eadc-f203-4281-a7b1-98c99373e7d9
+m	java:S1068"+Replace this use of System.out by a logger.(²…Ş§8¼àÎ§2J$686326b2-8c7e-4b9f-ace8-504f18aa9198
+m	java:S1069"+Replace this use of System.out by a logger.(²…Ş§8¼àÎ§2J$2ae28902-6ddb-4fb6-ab0c-c4b48a62ccad
+—
+java:S4276;"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(İúà£8¤çÏ§2J$2f241943-d69b-44d2-ac5b-d88dc065d6bb
+|
+java:S1612;"9Replace this lambda with method reference 'Math::random'.(İúà£8ÀàÎ§2J$2b67b829-4113-4f1c-8749-567ed514d7bf
+m	java:S106<"+Replace this use of System.out by a logger.(×–€£8âüÎ§2J$74c16339-d230-43ba-80d7-8bfbe7351767
+m	java:S106="+Replace this use of System.out by a logger.(×–€£8åµĞ§2J$4053057c-0bb1-4022-bddb-ebdf75289c57
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÀàÎ§2J$4e267e41-dd6f-416b-bdb6-b5d5473edd0e

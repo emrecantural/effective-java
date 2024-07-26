@@ -1,0 +1,17 @@
+
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áî¯Ù8³²¾¡2J$e3211e21-c84d-4f4f-8ac0-1ba3d5ef266a
+
+java:S1450"ZRemove the "kahveBoyutu" field and declare it as a local variable in the relevant methods.(¸ö×Ò8œÃÀ¡2J$697377f4-872d-4916-807b-30781d813168
+
+java:S1450	"[Remove the "sekerMiktari" field and declare it as a local variable in the relevant methods.(›Ëé8œÃÀ¡2J$3f7e5ad2-55e2-4b72-a18a-c065ce0ed71f
+¡
+java:S1450
+"YRemove the "sutMiktari" field and declare it as a local variable in the relevant methods.(©Ïı‡şÿÿÿÿ8œÃÀ¡2J$45d1bab8-af2f-4172-a4d5-739c16abc751
+r
+java:S1068"/Remove this unused "kahveBoyutu" private field.(¸ö×Ò8ÃÀ¡2J$36853259-8234-435d-9e60-a70b5b888ba9
+s
+java:S1068	"0Remove this unused "sekerMiktari" private field.(›Ëé8ÃÀ¡2J$26ee731c-2630-4365-a1ad-47e2a98dd697
+v
+java:S1068
+".Remove this unused "sutMiktari" private field.(©Ïı‡şÿÿÿÿ8ÃÀ¡2J$860bb51a-9ff4-450c-9fe0-65fe2ab3868f
