@@ -1,4 +1,4 @@
-package org.example.item_10;
+package org.example.item_10_11;
 
 public class DenemeSinifi {
 
