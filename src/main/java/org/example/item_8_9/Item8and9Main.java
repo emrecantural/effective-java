@@ -2,7 +2,7 @@ package org.example.item_8_9;
 
 import java.io.*;
 
-public class Item8ve9Main {
+public class Item8and9Main {
 
   //Try Catch Finally vs Try With Resource -Java Finalizers ve Cleaners
 
