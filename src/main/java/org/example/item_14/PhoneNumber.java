@@ -86,7 +86,7 @@ public class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
 //    }
 
   private static final Comparator<PhoneNumber> COMPARATOR =
-          comparingInt((PhoneNumber pn) -> pn.areaCode)
+          comparingInt((PhoneNumber pn) -> pn.areaCode) //Yaşalığa  neden olur. Çoğu yazılımcı kullanır.
                   .thenComparingInt(pn -> pn.prefix)
                   .thenComparingInt(pn -> pn.lineNum);
 
