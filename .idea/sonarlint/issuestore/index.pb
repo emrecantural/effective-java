@@ -100,3 +100,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+\
+,src/main/java/org/example/item_13/Stack.java,b\6\b62c57d8559643a1f04ade78f30a54632cfce41c
+b
+2src/main/java/org/example/item_13/PhoneNumber.java,7\c\7cbfd57ad3aa22e90912dc78f25743fa7efcad47
+a
+1src/main/java/org/example/item_14/Item14Main.java,8\1\81f5022a28a634b49d098ed7b9e30a25454d559c
