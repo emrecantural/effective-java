@@ -106,3 +106,11 @@ b
 2src/main/java/org/example/item_13/PhoneNumber.java,7\c\7cbfd57ad3aa22e90912dc78f25743fa7efcad47
 a
 1src/main/java/org/example/item_14/Item14Main.java,8\1\81f5022a28a634b49d098ed7b9e30a25454d559c
+\
+,src/main/java/org/example/item_14/Kitap.java,f\c\fcfb7d9ccccc0c14f7241e6ba6be3eed7f305f4a
+b
+2src/main/java/org/example/item_14/PhoneNumber.java,6\a\6a67c1d81e3657049ea703d07771ce0651a28c5a
+f
+6src/main/java/org/example/item_14/IsımKıyaslama.java,0\4\04d7e9c54a7ae8ac2fce0befdbe4cd918beddbf4
+l
+<src/main/java/org/example/item_14/CaseInsensitiveString.java,c\f\cf6ed876db8fb1304a10987a1910d2fb52401e5c
