@@ -114,3 +114,7 @@ f
 6src/main/java/org/example/item_14/IsımKıyaslama.java,0\4\04d7e9c54a7ae8ac2fce0befdbe4cd918beddbf4
 l
 <src/main/java/org/example/item_14/CaseInsensitiveString.java,c\f\cf6ed876db8fb1304a10987a1910d2fb52401e5c
+a
+1src/main/java/org/example/item_15/Item15Main.java,c\a\ca127bd16f4a4ebf3eec79451b6690331343c8ab
+a
+1src/main/java/org/example/item_15/GuvenliKod.java,2\c\2c932ac09ac2865fb0a2f8b2987a4f1edc4d930e
