@@ -128,3 +128,9 @@ a
 1src/main/java/org/example/item_17/Item17Main.java,1\d\1d74c83f3a47f6815cb33bbd6ba6d776d294aca0
 a
 1src/main/java/org/example/item_18/Item18Main.java,1\c\1c0dede2d1457cd1f6e5470c4ab1501d7cd8d701
+`
+0src/main/java/org/example/item_17/Immutable.java,7\2\72ef70bab6825b9a46b0023ae497bb86de720d9a
+^
+.src/main/java/org/example/item_17/Mutable.java,d\5\d58ea1114a62db7f7e3ea683f4ea0123f3f8db82
+^
+.src/main/java/org/example/item_17/Complex.java,8\4\84d22ed6e6fae4e7d48dc351b7491db60f68fa41
