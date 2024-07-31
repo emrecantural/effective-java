@@ -118,3 +118,13 @@ a
 1src/main/java/org/example/item_15/Item15Main.java,c\a\ca127bd16f4a4ebf3eec79451b6690331343c8ab
 a
 1src/main/java/org/example/item_15/GuvenliKod.java,2\c\2c932ac09ac2865fb0a2f8b2987a4f1edc4d930e
+a
+1src/main/java/org/example/item_16/Item16Main.java,5\d\5d045b7974331a56f566845d93c45c69f7851905
+]
+-src/main/java/org/example/item_16/Futbol.java,d\e\de6cbe472c22108740c36224532b9954c7a835c7
+[
++src/main/java/org/example/item_16/Time.java,5\9\59f85c94a2d62976cd91eb027cc36838d4059885
+a
+1src/main/java/org/example/item_17/Item17Main.java,1\d\1d74c83f3a47f6815cb33bbd6ba6d776d294aca0
+a
+1src/main/java/org/example/item_18/Item18Main.java,1\c\1c0dede2d1457cd1f6e5470c4ab1501d7cd8d701

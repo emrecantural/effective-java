@@ -48,7 +48,9 @@ public class GuvenliKod {
    */
 
   /**
+   *String array olduğunda içerisindeki değerleri final olmasına rağmen değiştirebiliyoruz. Bu nedenle, güvenlik açığı oluşuyor.
    *
+   * private static final yerine private yap ve Collections.unmpdifiableList veya clone ile al
    */
 
 }
