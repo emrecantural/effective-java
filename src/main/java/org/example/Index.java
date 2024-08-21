@@ -9,6 +9,8 @@ import org.example.item_14.Item14Main;
 import org.example.item_15.Item15Main;
 import org.example.item_16.Item16Main;
 import org.example.item_17.Item17Main;
+import org.example.item_18.Item18Main;
+import org.example.item_19.Item19Main;
 import org.example.item_2.Item2Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
@@ -33,6 +35,7 @@ public class Index {
   Item15Main item15Main; //Java Access Modifiers Nedir? - Public, Private, Protected, Final, Static
   Item16Main item16Main; //Java Encapsulation
   Item17Main item17Main; //Mutable -Immutable obje
-
+  Item18Main item18Main; //Java Composition vs Inheritance
+  Item19Main item19Main;
 
 }
