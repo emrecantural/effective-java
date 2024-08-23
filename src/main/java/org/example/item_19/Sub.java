@@ -11,7 +11,6 @@ public final class Sub extends Super {
 
   }
 
-
   @Override
   public void overrideMe() {
     System.out.println(instant);

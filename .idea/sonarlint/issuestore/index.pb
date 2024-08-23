@@ -132,3 +132,7 @@ b
 2src/main/java/org/example/item_18/Kütüphane.java,2\6\264802bf53b9686955ee0d533452e69e0eafc157
 a
 1src/main/java/org/example/item_19/Item19Main.java,a\a\aaff6ad22dec4c18454606d630db43b322609927
+Z
+*src/main/java/org/example/item_19/Sub.java,b\0\b02412a9c36fa0ad03b8a06cbb42dc0fa7f1f979
+\
+,src/main/java/org/example/item_19/Super.java,d\4\d420f82f576c044210ba46798113171a6a8f2cee
