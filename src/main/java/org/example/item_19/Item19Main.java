@@ -1,7 +1,14 @@
 package org.example.item_19;
 
 public class Item19Main {
-  public static void main(String[] args) {
 
+  /**
+   * 20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
+   * @param args
+   */
+  public static void main(String[] args) {
+/**
+ * İhtiyacını uygun kullan
+ */
   }
 }

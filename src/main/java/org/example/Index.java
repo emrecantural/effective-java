@@ -36,6 +36,6 @@ public class Index {
   Item16Main item16Main; //Java Encapsulation
   Item17Main item17Main; //Mutable -Immutable obje
   Item18Main item18Main; //Java Composition vs Inheritance
-  Item19Main item19Main;
+  Item19Main item19Main; //20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
 
 }
