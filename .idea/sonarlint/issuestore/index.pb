@@ -116,8 +116,6 @@ a
 .src/main/java/org/example/item_17/Mutable.java,d\5\d58ea1114a62db7f7e3ea683f4ea0123f3f8db82
 ^
 .src/main/java/org/example/item_17/Complex.java,8\4\84d22ed6e6fae4e7d48dc351b7491db60f68fa41
-m
-=src/main/java/org/example/item_18/KötüBirKalitimOrnegi.java,c\4\c4ca62bcb136878c002b562ac12b0656be78bbfa
 k
 ;src/main/java/org/example/item_18/KotuBirKalitimOrnegi.java,9\5\95d90b799402b03617074e9c481d5d71f9ff6939
 l
@@ -136,3 +134,13 @@ Z
 *src/main/java/org/example/item_19/Sub.java,b\0\b02412a9c36fa0ad03b8a06cbb42dc0fa7f1f979
 \
 ,src/main/java/org/example/item_19/Super.java,d\4\d420f82f576c044210ba46798113171a6a8f2cee
+a
+1src/main/java/org/example/item_19/AnaSınıf.java,b\e\be497b1a53b75b1ea72a961c6b7ce358f595cbd8
+c
+3src/main/java/org/example/item_19/CocukSınıf.java,c\f\cfdff4e0cda347d4310649b3beadcb678ce4078b
+h
+8src/main/java/org/example/item_19/KalıtımKaçış.java,b\4\b432411da0dcceb8ff6686a51bde6a0b807b8df3
+f
+6src/main/java/org/example/item_19/KalıtımÇocuk.java,f\1\f131335a5cfc72027a1f1264765094eb7c88ae9f
+i
+9src/main/java/org/example/item_20_21/Item20and21Main.java,7\0\70a527917f31a6302da7029a84130fcc1ec15e62

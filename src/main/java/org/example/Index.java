@@ -12,6 +12,7 @@ import org.example.item_17.Item17Main;
 import org.example.item_18.Item18Main;
 import org.example.item_19.Item19Main;
 import org.example.item_2.Item2Main;
+import org.example.item_20_21.Item20and21Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
@@ -37,5 +38,7 @@ public class Index {
   Item17Main item17Main; //Mutable -Immutable obje
   Item18Main item18Main; //Java Composition vs Inheritance
   Item19Main item19Main; //20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
+  Item20and21Main item20and21Main; //21. Java Abstract vs Interface - Default Method in Interface
+
 
 }
