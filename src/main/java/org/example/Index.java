@@ -16,6 +16,8 @@ import org.example.item_20_21.Item20and21Main;
 import org.example.item_22.Item22Main;
 import org.example.item_23.Item23Main;
 import org.example.item_24.Item24Main;
+import org.example.item_25.Item25Main;
+import org.example.item_26.Item26Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
@@ -45,5 +47,7 @@ public class Index {
   Item22Main item22Main; //22. Doğru Interface Kullanımı Nasıl Olmalı?
   Item23Main item23Main; //23. Java Class Hierarchy
   Item24Main item24Main; //24. Inner Classes Java - Java iç içe geçmiş Sınıflar
+  Item25Main item25Main; //25. Limit source files - 2 Sınıfı tek bir dosyada tanımlamayın
+  Item26Main item26Main; //26. Java Raw Types - Raw Type Kullanmayın!
 
 }

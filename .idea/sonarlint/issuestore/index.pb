@@ -196,3 +196,13 @@ a
 1src/main/java/org/example/item_24/SuperClass.java,7\4\74b1a3548267e8fef779112f1563d40d40dca0f3
 f
 6src/main/java/org/example/item_24/SuperClassDerin.java,5\8\5832ff93ef5979e9101c20dc06d5b464223e947f
+a
+1src/main/java/org/example/item_25/Item25Main.java,9\1\918f56cf960e9e78a576fad4791f6ecf9840691f
+^
+.src/main/java/org/example/item_25/Dessert.java,6\d\6dc0627a9324f3673d9e9c96f92c041e2f17a0ea
+[
++src/main/java/org/example/item_25/Test.java,3\b\3b21df6a79059a9208afde234dfd1abc96126cae
+^
+.src/main/java/org/example/item_25/Utensil.java,3\6\36289b8f98efe73cdfe5af85352d405a067a311a
+a
+1src/main/java/org/example/item_26/Item26Main.java,8\4\84cce1f88f6dc8a719a22b8c366d609a079e101b
