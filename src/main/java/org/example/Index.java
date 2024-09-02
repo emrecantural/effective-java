@@ -23,6 +23,7 @@ import org.example.item_28.Item28Main;
 import org.example.item_29.Item29Main;
 import org.example.item_3.Item3Main;
 import org.example.item_30.Item30Main;
+import org.example.item_31.Item31Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
 import org.example.item_7.Item7Main;
@@ -57,6 +58,7 @@ public class Index {
   Item28Main item28Main; //Array vs Generic? - Array vs List? - (Listeleri Arraylere Tercih Edin!)
   Item29Main item29Main; //Java Generics - Generic Classes - (Generic Tipleri Tercih Edin!)
   Item30Main item30Main; //30. Generic Methods in Java - (Javanın Olmazsa Olmazı!)
+  Item31Main item31Main; //31. Java Generics WildCards - (Java ile Api Tasarlamak için Bu Konuyu Bilmelisin!)
 
 
 }

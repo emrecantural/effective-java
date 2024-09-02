@@ -226,3 +226,15 @@ a
 ,src/main/java/org/example/item_30/Union.java,f\0\f08eb1eca04b770f381873d08dbdcc27f654c553
 n
 >src/main/java/org/example/item_30/GenericSingletonFactory.java,d\6\d6ee954b7785b0e184d61fbf0965f2f764ba0945
+a
+1src/main/java/org/example/item_31/Item31Main.java,8\9\8967fa4276fd684d11ff4c305bfc56b2096179b7
+X
+(src/main/java/org/example/item_31/A.java,a\e\ae876b874a6ef08e5841f28408a453761a6243bc
+X
+(src/main/java/org/example/item_31/B.java,a\9\a9b2b93c6fa1e9d3a77b774bf2c5f3922dd57aa7
+X
+(src/main/java/org/example/item_31/C.java,6\5\65a7c0cd89163019877bc6b62b1d3f587e9ae290
+X
+(src/main/java/org/example/item_31/D.java,a\a\aa4c840199c09d3bd7f65c4119a2c9eabd80f9bb
+\
+,src/main/java/org/example/item_31/Union.java,6\6\664a0b3b152750a6ec04a7592b14e191eb60e964
