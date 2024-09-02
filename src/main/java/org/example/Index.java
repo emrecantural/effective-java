@@ -13,6 +13,9 @@ import org.example.item_18.Item18Main;
 import org.example.item_19.Item19Main;
 import org.example.item_2.Item2Main;
 import org.example.item_20_21.Item20and21Main;
+import org.example.item_22.Item22Main;
+import org.example.item_23.Item23Main;
+import org.example.item_24.Item24Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
@@ -39,6 +42,8 @@ public class Index {
   Item18Main item18Main; //Java Composition vs Inheritance
   Item19Main item19Main; //20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
   Item20and21Main item20and21Main; //Java Abstract vs Interface - Default Method in Interface
-
+  Item22Main item22Main; //22. Doğru Interface Kullanımı Nasıl Olmalı?
+  Item23Main item23Main; //23. Java Class Hierarchy
+  Item24Main item24Main; //24. Inner Classes Java - Java iç içe geçmiş Sınıflar
 
 }
