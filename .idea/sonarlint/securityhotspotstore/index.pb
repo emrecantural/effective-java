@@ -206,3 +206,9 @@ a
 .src/main/java/org/example/item_25/Utensil.java,3\6\36289b8f98efe73cdfe5af85352d405a067a311a
 a
 1src/main/java/org/example/item_26/Item26Main.java,8\4\84cce1f88f6dc8a719a22b8c366d609a079e101b
+Z
+*src/main/java/org/example/item_26/Raw.java,0\c\0cfb8b349aae45f0db94ecb0cb4f2f8912de2752
+a
+1src/main/java/org/example/item_27/Item27Main.java,b\b\bbc62f140cc8db3ec63d2a09016df41b6134b48e
+a
+1src/main/java/org/example/item_28/Item28Main.java,b\b\bbb8f738456707f3029063d3bd43ffaa833b7f66

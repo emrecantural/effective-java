@@ -18,6 +18,8 @@ import org.example.item_23.Item23Main;
 import org.example.item_24.Item24Main;
 import org.example.item_25.Item25Main;
 import org.example.item_26.Item26Main;
+import org.example.item_27.Item27Main;
+import org.example.item_28.Item28Main;
 import org.example.item_3.Item3Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
@@ -49,5 +51,8 @@ public class Index {
   Item24Main item24Main; //24. Inner Classes Java - Java iç içe geçmiş Sınıflar
   Item25Main item25Main; //25. Limit source files - 2 Sınıfı tek bir dosyada tanımlamayın
   Item26Main item26Main; //26. Java Raw Types - Raw Type Kullanmayın!
+  Item27Main item27Main; //Java Unchecked Warnings - SuppressWarnings (Nereden geliyor bu sarı yazılar?)
+  Item28Main item28Main; //Array vs Generic? - Array vs List? - (Listeleri Arraylere Tercih Edin!)
+
 
 }
