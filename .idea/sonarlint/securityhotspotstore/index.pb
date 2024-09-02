@@ -144,3 +144,17 @@ f
 6src/main/java/org/example/item_19/KalıtımÇocuk.java,f\1\f131335a5cfc72027a1f1264765094eb7c88ae9f
 i
 9src/main/java/org/example/item_20_21/Item20and21Main.java,7\0\70a527917f31a6302da7029a84130fcc1ec15e62
+d
+4src/main/java/org/example/item_20_21/Şarkıcı.java,9\f\9f586544c225db9a2f087e827f077dd2132f69f4
+r
+Bsrc/main/java/org/example/item_20_21/ŞarkıcıŞarkıYazarı.java,b\6\b672524bdbae6a3c26d0824dd48f56d769cb0191
+h
+8src/main/java/org/example/item_20_21/ŞarkıYazarı.java,b\9\b92418353bd5d8c63f60a55bf782de9a01c9ae8b
+^
+.src/main/java/org/example/item_20_21/Kuş.java,2\8\28cf35d35f5eeabb7f0f857a7a64b4949cda51fe
+c
+3src/main/java/org/example/item_20_21/IntArrays.java,2\9\299fbfdf8eaa0242db36d1e866e3db910a84390e
+`
+0src/main/java/org/example/item_20_21/Hayvan.java,2\7\273d087b939ce85a40ad085d6cea6f233529b44d
+j
+:src/main/java/org/example/item_20_21/AbstractMapEntry.java,8\d\8dbeb1d183a624ef4539a3c70f119ae06406329b

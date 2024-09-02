@@ -38,7 +38,7 @@ public class Index {
   Item17Main item17Main; //Mutable -Immutable obje
   Item18Main item18Main; //Java Composition vs Inheritance
   Item19Main item19Main; //20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
-  Item20and21Main item20and21Main; //21. Java Abstract vs Interface - Default Method in Interface
+  Item20and21Main item20and21Main; //Java Abstract vs Interface - Default Method in Interface
 
 
 }
