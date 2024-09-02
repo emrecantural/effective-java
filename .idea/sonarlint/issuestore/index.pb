@@ -212,3 +212,17 @@ a
 1src/main/java/org/example/item_27/Item27Main.java,b\b\bbc62f140cc8db3ec63d2a09016df41b6134b48e
 a
 1src/main/java/org/example/item_28/Item28Main.java,b\b\bbb8f738456707f3029063d3bd43ffaa833b7f66
+a
+1src/main/java/org/example/item_29/Item29Main.java,8\4\84144102762f07410a377a732084190ff7016c07
+j
+:src/main/java/org/example/item_29/EmptyStackException.java,0\b\0b74eb5cc693cc6911f5c0625cee29538012f360
+c
+3src/main/java/org/example/item_29/StackTechOne.java,c\0\c0c38a5bcfbd49705cae94a8cd7d4683ab4668cc
+c
+3src/main/java/org/example/item_29/StackTechTwo.java,7\5\75aca2c92837f1a2a2e7a0439349138a19bb4bd1
+a
+1src/main/java/org/example/item_30/Item30Main.java,6\6\66b1258c931ffa97ab734aeaf1f6af7c4348ef43
+\
+,src/main/java/org/example/item_30/Union.java,f\0\f08eb1eca04b770f381873d08dbdcc27f654c553
+n
+>src/main/java/org/example/item_30/GenericSingletonFactory.java,d\6\d6ee954b7785b0e184d61fbf0965f2f764ba0945
