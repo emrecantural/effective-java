@@ -186,3 +186,13 @@ a
 -src/main/java/org/example/item_23/Square.java,7\6\76e6e2f844e90652bd2303dbc3da59536fa68238
 a
 1src/main/java/org/example/item_24/Item24Main.java,4\5\45168df6b78d9151ca153ba78ee8e308a36b7395
+a
+1src/main/java/org/example/item_24/LocalClass.java,b\d\bd89d3c2a653a4f73a97dcd7457fc6f0023afc83
+f
+6src/main/java/org/example/item_24/NonStaticNested.java,3\0\3084d2e162f7a7ca046c49d01803ce2459fb3203
+c
+3src/main/java/org/example/item_24/StaticNested.java,0\0\00e20b8f9d4fa37f6caa357d84fe325494eeef20
+a
+1src/main/java/org/example/item_24/SuperClass.java,7\4\74b1a3548267e8fef779112f1563d40d40dca0f3
+f
+6src/main/java/org/example/item_24/SuperClassDerin.java,5\8\5832ff93ef5979e9101c20dc06d5b464223e947f
