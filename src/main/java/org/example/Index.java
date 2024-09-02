@@ -9,8 +9,21 @@ import org.example.item_14.Item14Main;
 import org.example.item_15.Item15Main;
 import org.example.item_16.Item16Main;
 import org.example.item_17.Item17Main;
+import org.example.item_18.Item18Main;
+import org.example.item_19.Item19Main;
 import org.example.item_2.Item2Main;
+import org.example.item_20_21.Item20and21Main;
+import org.example.item_22.Item22Main;
+import org.example.item_23.Item23Main;
+import org.example.item_24.Item24Main;
+import org.example.item_25.Item25Main;
+import org.example.item_26.Item26Main;
+import org.example.item_27.Item27Main;
+import org.example.item_28.Item28Main;
+import org.example.item_29.Item29Main;
 import org.example.item_3.Item3Main;
+import org.example.item_30.Item30Main;
+import org.example.item_31.Item31Main;
 import org.example.item_4.Item4Main;
 import org.example.item_5.Item5Main;
 import org.example.item_7.Item7Main;
@@ -33,6 +46,19 @@ public class Index {
   Item15Main item15Main; //Java Access Modifiers Nedir? - Public, Private, Protected, Final, Static
   Item16Main item16Main; //Java Encapsulation
   Item17Main item17Main; //Mutable -Immutable obje
+  Item18Main item18Main; //Java Composition vs Inheritance
+  Item19Main item19Main; //20. Java Inheritance Kullanırken Dikkat Edilmesi Gerekenler - Dokümantasyonun Önemi
+  Item20and21Main item20and21Main; //Java Abstract vs Interface - Default Method in Interface
+  Item22Main item22Main; //22. Doğru Interface Kullanımı Nasıl Olmalı?
+  Item23Main item23Main; //23. Java Class Hierarchy
+  Item24Main item24Main; //24. Inner Classes Java - Java iç içe geçmiş Sınıflar
+  Item25Main item25Main; //25. Limit source files - 2 Sınıfı tek bir dosyada tanımlamayın
+  Item26Main item26Main; //26. Java Raw Types - Raw Type Kullanmayın!
+  Item27Main item27Main; //Java Unchecked Warnings - SuppressWarnings (Nereden geliyor bu sarı yazılar?)
+  Item28Main item28Main; //Array vs Generic? - Array vs List? - (Listeleri Arraylere Tercih Edin!)
+  Item29Main item29Main; //Java Generics - Generic Classes - (Generic Tipleri Tercih Edin!)
+  Item30Main item30Main; //30. Generic Methods in Java - (Javanın Olmazsa Olmazı!)
+  Item31Main item31Main; //31. Java Generics WildCards - (Java ile Api Tasarlamak için Bu Konuyu Bilmelisin!)
 
 
 }
