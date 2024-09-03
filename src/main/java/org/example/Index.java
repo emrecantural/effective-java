@@ -45,6 +45,20 @@ import org.example.item_48.Item48Main;
 import org.example.item_49.Item49Main;
 import org.example.item_5.Item5Main;
 import org.example.item_50.Item50Main;
+import org.example.item_51.Item51Main;
+import org.example.item_52.Item52Main;
+import org.example.item_53.Item53Main;
+import org.example.item_54.Item54Main;
+import org.example.item_55.Item55Main;
+import org.example.item_56.Item56Main;
+import org.example.item_57.Item57Main;
+import org.example.item_58.Item58Main;
+import org.example.item_59.Item59Main;
+import org.example.item_60.Item60Main;
+import org.example.item_61.Item61Main;
+import org.example.item_62.Item62Main;
+import org.example.item_63.Item63Main;
+import org.example.item_64.Item64Main;
 import org.example.item_7.Item7Main;
 import org.example.item_8_9.Item8and9Main;
 
@@ -97,6 +111,20 @@ public class Index {
   Item48Main item48Main;
   Item49Main item49Main;
   Item50Main item50Main;
+  Item51Main item51Main;
+  Item52Main item52Main;
+  Item53Main item53Main;
+  Item54Main item54Main;
+  Item55Main item55Main;
+  Item56Main item56Main;
+  Item57Main item57Main;
+  Item58Main item58Main;
+  Item59Main item59Main;
+  Item60Main item60Main;
+  Item61Main item61Main;
+  Item62Main item62Main;
+  Item63Main item63Main;
+  Item64Main item64Main;
 
 
 }
