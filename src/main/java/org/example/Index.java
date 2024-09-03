@@ -92,8 +92,8 @@ public class Index {
   Item29Main item29Main; //Java Generics - Generic Classes - (Generic Tipleri Tercih Edin!)
   Item30Main item30Main; //30. Generic Methods in Java - (Javanın Olmazsa Olmazı!)
   Item31Main item31Main; //31. Java Generics WildCards - (Java ile Api Tasarlamak için Bu Konuyu Bilmelisin!)
-  Item32Main item32Main;
-  Item33Main item33Main;
+  Item32Main item32Main; //32. Java Varargs - Generic & Varargs
+  Item33Main item33Main; // 33. Java Typesafe Heteregenous Map - (Java ile Api Tasarlamak için Altyapı)
   Item34Main item34Main;
   Item35Main item35Main;
   Item36Main item36Main;
