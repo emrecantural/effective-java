@@ -24,8 +24,27 @@ import org.example.item_29.Item29Main;
 import org.example.item_3.Item3Main;
 import org.example.item_30.Item30Main;
 import org.example.item_31.Item31Main;
+import org.example.item_32.Item32Main;
+import org.example.item_33.Item33Main;
+import org.example.item_34.Item34Main;
+import org.example.item_35.Item35Main;
+import org.example.item_36.Item36Main;
+import org.example.item_37.Item37Main;
+import org.example.item_38.Item38Main;
+import org.example.item_39.Item39Main;
 import org.example.item_4.Item4Main;
+import org.example.item_40.Item40Main;
+import org.example.item_41.Item41Main;
+import org.example.item_42.Item42Main;
+import org.example.item_43.Item43Main;
+import org.example.item_44.Item44Main;
+import org.example.item_45.Item45Main;
+import org.example.item_46.Item46Main;
+import org.example.item_47.Item47Main;
+import org.example.item_48.Item48Main;
+import org.example.item_49.Item49Main;
 import org.example.item_5.Item5Main;
+import org.example.item_50.Item50Main;
 import org.example.item_7.Item7Main;
 import org.example.item_8_9.Item8and9Main;
 
@@ -59,6 +78,25 @@ public class Index {
   Item29Main item29Main; //Java Generics - Generic Classes - (Generic Tipleri Tercih Edin!)
   Item30Main item30Main; //30. Generic Methods in Java - (Javanın Olmazsa Olmazı!)
   Item31Main item31Main; //31. Java Generics WildCards - (Java ile Api Tasarlamak için Bu Konuyu Bilmelisin!)
+  Item32Main item32Main;
+  Item33Main item33Main;
+  Item34Main item34Main;
+  Item35Main item35Main;
+  Item36Main item36Main;
+  Item37Main item37Main;
+  Item38Main item38Main;
+  Item39Main item39Main;
+  Item40Main item40Main;
+  Item41Main item41Main;
+  Item42Main item42Main;
+  Item43Main item43Main;
+  Item44Main item44Main;
+  Item45Main item45Main;
+  Item46Main item46Main;
+  Item47Main item47Main;
+  Item48Main item48Main;
+  Item49Main item49Main;
+  Item50Main item50Main;
 
 
 }
