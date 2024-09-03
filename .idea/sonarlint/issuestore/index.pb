@@ -330,3 +330,15 @@ h
 8src/main/java/org/example/item_33/FavoritesContract.java,c\4\c44032dc2c669789fa739d1e613809729b36cd61
 f
 6src/main/java/org/example/item_33/PrintAnnotation.java,b\7\b77ad2a5a8719522a9b939a6ad2b7279d07e61ba
+^
+.src/main/java/org/example/item_34/Inverse.java,5\3\533d7ac3b465f8b57a6e498ca019dbbde456e91a
+`
+0src/main/java/org/example/item_34/Operation.java,d\a\da958f4434caa41673638143515fe5731ea92279
+f
+6src/main/java/org/example/item_34/OperationSwitch.java,9\d\9d42da70f4e0b212d1a95dd9c6a2dd81194e0e78
+a
+1src/main/java/org/example/item_34/PayrollDay.java,4\b\4b36ee2edd0478187c66bb33f30081a26f9dd3a0
+]
+-src/main/java/org/example/item_34/Planet.java,7\1\71224e3dcd4984e89f741cf32c42744e0be7c829
+b
+2src/main/java/org/example/item_34/WeightTable.java,8\4\84fd8ade56008df1b277dc35e8a9435a6575dbe0

@@ -94,7 +94,7 @@ public class Index {
   Item31Main item31Main; //31. Java Generics WildCards - (Java ile Api Tasarlamak için Bu Konuyu Bilmelisin!)
   Item32Main item32Main; //32. Java Varargs - Generic & Varargs
   Item33Main item33Main; // 33. Java Typesafe Heteregenous Map - (Java ile Api Tasarlamak için Altyapı)
-  Item34Main item34Main;
+  Item34Main item34Main; //34. Java Enums & Strategy Design Pattern (Enumlara Birde Böyle Bakın!)
   Item35Main item35Main;
   Item36Main item36Main;
   Item37Main item37Main;
