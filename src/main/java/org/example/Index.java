@@ -95,9 +95,9 @@ public class Index {
   Item32Main item32Main; //32. Java Varargs - Generic & Varargs
   Item33Main item33Main; // 33. Java Typesafe Heteregenous Map - (Java ile Api Tasarlamak için Altyapı)
   Item34Main item34Main; //34. Java Enums & Strategy Design Pattern (Enumlara Birde Böyle Bakın!)
-  Item35Main item35Main;
-  Item36Main item36Main;
-  Item37Main item37Main;
+  Item35Main item35Main; //35. Java Enum Ordinal - Enum Ordinalleri Kullanalım mı?
+  Item36Main item36Main; //36. Java Enumset - Java Bitwise Operations - Enumsetleri Kullanmanın Avantajları
+  Item37Main item37Main; //37. Java EnumMap - Doğru Enum Kullanım Örnekleri (Yazılım Değişime Direnmemeli!)
   Item38Main item38Main;
   Item39Main item39Main;
   Item40Main item40Main;

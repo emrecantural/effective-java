@@ -342,3 +342,11 @@ a
 -src/main/java/org/example/item_34/Planet.java,7\1\71224e3dcd4984e89f741cf32c42744e0be7c829
 b
 2src/main/java/org/example/item_34/WeightTable.java,8\4\84fd8ade56008df1b277dc35e8a9435a6575dbe0
+e
+5src/main/java/org/example/item_35/OrdinalExample.java,e\4\e44472d285df1803de235b0a58b732ffb40486cd
+^
+.src/main/java/org/example/item_35/Esemble.java,a\5\a54a8e2127d4a4f7575a98a2c48c8c6605dcd458
+^
+.src/main/java/org/example/item_36/TextBad.java,4\3\4351711244e9ee86289ec01f935d347c01017215
+[
++src/main/java/org/example/item_36/Text.java,8\6\8678f70f4d7949e332c43cc87e2034c35cfb3e7e

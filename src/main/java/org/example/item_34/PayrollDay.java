@@ -4,8 +4,8 @@ import static org.example.item_34.PayrollDay.PayType.*;
 
 //The strategy enum pattern (Page 166)
 enum PayrollDay {
-  MONDAY(WEEKDAY), TUESDAY(WEEKDAY), WEDNESDAY(WEEKDAY), THURSDAY(WEEKDAY), FRIDAY(WEEKDAY), SATURDAY(WEEKEND),
-  SUNDAY(WEEKEND);
+  MONDAY(WEEKDAY), TUESDAY(WEEKDAY), WEDNESDAY(WEEKDAY), THURSDAY(WEEKDAY), FRIDAY(WEEKDAY),
+  SATURDAY(WEEKEND), SUNDAY(WEEKEND);
 
   private final PayType payType;
 
