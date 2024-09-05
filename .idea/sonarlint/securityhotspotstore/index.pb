@@ -354,3 +354,7 @@ h
 8src/main/java/org/example/item_38/ExtendedOperation.java,8\f\8f494d0e9c34eb5c8d0804b221eaad4f2ed682f8
 `
 0src/main/java/org/example/item_38/Operation.java,e\f\ef42ea09876cb59f8789a44128e7d3140beca258
+k
+;src/main/java/org/example/item_39/reflection/Metallica.java,6\6\66f45a78d2c90467414a06f6f738c74aaabddb3f
+p
+@src/main/java/org/example/item_39/reflection/TestReflection.java,f\8\f8c865e24922fe19cf436e491973c24bc5df6e82
