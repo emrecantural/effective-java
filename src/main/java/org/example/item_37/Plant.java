@@ -38,12 +38,12 @@ class Plant {
     // Dizilerle genericler uyumlu değiller. Kontrolsüz tür dönüştürmek zorunda kalıyoruz.
     // indis sorumluluğu senin üstünde
 
-    Set<Plant>[] plantsByLifeCycleArr = (Set<Plant>[]) new Set[Plant.LifeCycle.values().length];
+    Set<Plant>[] plantsByLifeCycleArr = (Set<Plant>[]) new Set[Plant.LifeCycle.values().length]; //Set compile time array runtime hatası verir -> Kontrolsüz tür döüşümü yaptım maalesef
 
     for (int i = 0; i < plantsByLifeCycleArr.length; i++)
       plantsByLifeCycleArr[i] = new HashSet<>();
     for (Plant p : garden)
-      plantsByLifeCycleArr[p.lifeCycle.ordinal()].add(p);
+      plantsByLifeCycleArr[p.lifeCycle.ordinal()].add(p); //Yanlış indis kuullanırsan her şey karışır
     // Print the results
     for (int i = 0; i < plantsByLifeCycleArr.length; i++) {
       System.out.printf("%s: %s%n", Plant.LifeCycle.values()[i], plantsByLifeCycleArr[i]);
@@ -52,7 +52,7 @@ class Plant {
     System.out.println("----------------");
 
     // Using an EnumMap to associate data with an enum (Page 172)
-    Map<Plant.LifeCycle, Set<Plant>> plantsByLifeCycle = new EnumMap<>(Plant.LifeCycle.class);
+    Map<Plant.LifeCycle, Set<Plant>> plantsByLifeCycle = new EnumMap<>(Plant.LifeCycle.class); //HashMap gibi ama enum için tasarlanmış olanı
     for (Plant.LifeCycle lc : Plant.LifeCycle.values())
       plantsByLifeCycle.put(lc, new HashSet<>());
     for (Plant p : garden)

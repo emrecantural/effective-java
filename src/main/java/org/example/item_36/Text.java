@@ -42,7 +42,7 @@ public class Text {
  * enum Day {
  *     MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
  * }
- *
+ * <p>
  * public class EnumSetExample {
  *     public static void main(String[] args) {
  *         // Tüm hafta içi günleri içeren bir EnumSet oluşturma

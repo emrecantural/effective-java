@@ -348,3 +348,9 @@ e
 ,src/main/java/org/example/item_37/Phase.java,b\1\b1dde46db576dc17836705548c67788f78a0c870
 \
 ,src/main/java/org/example/item_37/Plant.java,5\0\50802b4860a0a429e621ed4fe6ff3c2669691b33
+e
+5src/main/java/org/example/item_38/BasicOperation.java,d\0\d02b106ea0c62363ee2c98c1e0c6cbc18c0d58e6
+h
+8src/main/java/org/example/item_38/ExtendedOperation.java,8\f\8f494d0e9c34eb5c8d0804b221eaad4f2ed682f8
+`
+0src/main/java/org/example/item_38/Operation.java,e\f\ef42ea09876cb59f8789a44128e7d3140beca258

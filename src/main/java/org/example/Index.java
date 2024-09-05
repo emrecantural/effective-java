@@ -98,8 +98,8 @@ public class Index {
   Item35Main item35Main; //35. Java Enum Ordinal - Enum Ordinalleri Kullanalım mı?
   Item36Main item36Main; //36. Java Enumset - Java Bitwise Operations - Enumsetleri Kullanmanın Avantajları
   Item37Main item37Main; //37. Java EnumMap - Doğru Enum Kullanım Örnekleri (Yazılım Değişime Direnmemeli!)
-  Item38Main item38Main;
-  Item39Main item39Main;
+  Item38Main item38Main; //38. Java Enum with Interfaces - Arayüzlerle Enum Tasarımı (Enum Hileleri)
+  Item39Main item39Main; //39. Java Reflection - (Mülakat Soru Adayı)
   Item40Main item40Main;
   Item41Main item41Main;
   Item42Main item42Main;
