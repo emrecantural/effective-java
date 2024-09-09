@@ -358,3 +358,13 @@ k
 ;src/main/java/org/example/item_39/reflection/Metallica.java,6\6\66f45a78d2c90467414a06f6f738c74aaabddb3f
 p
 @src/main/java/org/example/item_39/reflection/TestReflection.java,f\8\f8c865e24922fe19cf436e491973c24bc5df6e82
+k
+;src/main/java/org/example/item_42/lambda/LambdaExample.java,0\1\015edb5d637338e1c9d9f0d91c4b560cde7eb619
+e
+5src/main/java/org/example/item_42/lambda/Yazdır.java,8\b\8bbb0c3c5affe6da2c819cf2a8a53426c2458d86
+n
+>src/main/java/org/example/item_42/lambda/YazdırParametre.java,3\c\3c395609883ebfe8fd50759b9d951b58b537a1dc
+`
+0src/main/java/org/example/item_42/Operation.java,3\8\388dcfabd7c97c9735e5e550f3fd92a9e07f3954
+c
+3src/main/java/org/example/item_42/SortFourWays.java,b\f\bf7733787988ec7f2a71bf5943d4c9627ffe7e2b

@@ -102,7 +102,7 @@ public class Index {
   Item39Main item39Main; //39. Java Reflection - (Mülakat Soru Adayı)
   Item40Main item40Main;
   Item41Main item41Main;
-  Item42Main item42Main;
+  Item42Main item42Main; //43. Java Lambda Expressions & Anonymous Classes (Örnekli Anlatım)
   Item43Main item43Main;
   Item44Main item44Main;
   Item45Main item45Main;
