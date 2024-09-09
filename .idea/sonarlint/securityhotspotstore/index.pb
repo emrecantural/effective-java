@@ -368,3 +368,9 @@ n
 0src/main/java/org/example/item_42/Operation.java,3\8\388dcfabd7c97c9735e5e550f3fd92a9e07f3954
 c
 3src/main/java/org/example/item_42/SortFourWays.java,b\f\bf7733787988ec7f2a71bf5943d4c9627ffe7e2b
+[
++src/main/java/org/example/item_43/Freq.java,0\f\0f6b35606db73917dfceabf5fa06cc9e23f8c050
+g
+7src/main/java/org/example/item_43/FunctionalString.java,e\c\ec276868024b6305b4900f57d022f5fda6374a0c
+g
+7src/main/java/org/example/item_44/KıyaslaBuyuguAl.java,0\b\0b76e9f4a982c65d02fc03bb12315aeed499bce6

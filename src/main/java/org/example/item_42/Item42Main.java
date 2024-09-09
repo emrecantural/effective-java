@@ -2,7 +2,7 @@ package org.example.item_42;
 
 public class Item42Main {
   /**
-   * 43. Java Lambda Expressions & Anonymous Classes (Örnekli Anlatım)
+   *  //43. Java Lambda Expressions & Anonymous Classes (Örnekli Anlatım)
    */
 
   public static void main(String[] args) {

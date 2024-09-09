@@ -103,9 +103,9 @@ public class Index {
   Item40Main item40Main;
   Item41Main item41Main;
   Item42Main item42Main; //43. Java Lambda Expressions & Anonymous Classes (Örnekli Anlatım)
-  Item43Main item43Main;
-  Item44Main item44Main;
-  Item45Main item45Main;
+  Item43Main item43Main; //44. Method Reference Java 8 & Lambda (Kısa ve Okunabilirlik)
+  Item44Main item44Main; //45. Supplier Interface, BinaryOperator Interface (Elde Varsa Yenisini Yazma)
+  Item45Main item45Main; //   46. Java Streams Nedir? (Hangi Koşullarda Kullanmalıyım?)
   Item46Main item46Main;
   Item47Main item47Main;
   Item48Main item48Main;
