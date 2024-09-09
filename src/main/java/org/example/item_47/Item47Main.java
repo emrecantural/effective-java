@@ -10,6 +10,11 @@ public class Item47Main {
    * 48. Java Stream vs Collection [Return Type] - (Senior Mülakat Sorusu!)
    */
 
+  /**
+   *
+   * COLLECTİON INTERFACE --->
+   * @param args
+   */
 
   public static void main(String[] args) {
 
