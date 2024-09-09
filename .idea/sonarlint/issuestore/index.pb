@@ -374,3 +374,15 @@ g
 7src/main/java/org/example/item_43/FunctionalString.java,e\c\ec276868024b6305b4900f57d022f5fda6374a0c
 g
 7src/main/java/org/example/item_44/KıyaslaBuyuguAl.java,0\b\0b76e9f4a982c65d02fc03bb12315aeed499bce6
+n
+>src/main/java/org/example/item_45/anagrams/HybridAnagrams.java,b\7\b75cf6d2f473932548be95494352b888e6bad71a
+q
+Asrc/main/java/org/example/item_45/anagrams/IterativeAnagrams.java,f\6\f64d2b2b1a3036137a92118094adb223aaaf2e6d
+n
+>src/main/java/org/example/item_45/anagrams/StreamAnagrams.java,8\7\876d936be622bcd73532d825112ff6a140ff9d7b
+`
+0src/main/java/org/example/item_45/anagrams/words,9\8\98b08d075c1ba8d8c3811d3f0e696e3d7504e8fa
+[
++src/main/java/org/example/item_45/Card.java,f\9\f9d2c1c8cff8c6149c45e57f7e3a0f98581f4546
+a
+1src/main/java/org/example/item_45/CharStream.java,5\4\54b70cc4ab54625cc773bfb67646e9628fd0c5ee
