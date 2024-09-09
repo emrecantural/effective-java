@@ -106,8 +106,8 @@ public class Index {
   Item43Main item43Main; //44. Method Reference Java 8 & Lambda (Kısa ve Okunabilirlik)
   Item44Main item44Main; //45. Supplier Interface, BinaryOperator Interface (Elde Varsa Yenisini Yazma)
   Item45Main item45Main; //   46. Java Streams Nedir? (Hangi Koşullarda Kullanmalıyım?)
-  Item46Main item46Main;
-  Item47Main item47Main;
+  Item46Main item46Main; // Java Stream Kullanırken Dikkat Edilmesi Gerekenler
+  Item47Main item47Main; //48. Java Stream vs Collection [Return Type] - (Senior Mülakat Sorusu!)
   Item48Main item48Main;
   Item49Main item49Main;
   Item50Main item50Main;
