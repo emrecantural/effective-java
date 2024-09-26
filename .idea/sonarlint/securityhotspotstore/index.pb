@@ -394,3 +394,5 @@ _
 /src/main/java/org/example/item_47/PowerSet.java,b\6\b6cb2b9bd92e65652e99db861832cf57e82f0b6c
 _
 /src/main/java/org/example/item_47/SubLists.java,e\3\e36f53d0bf96f52f82d5182f63c4545103453657
+a
+1src/main/java/org/example/item_78/Item78Main.java,8\c\8c676b9c1e39488990d20c92391778447b99a3df

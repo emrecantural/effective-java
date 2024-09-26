@@ -60,6 +60,7 @@ import org.example.item_62.Item62Main;
 import org.example.item_63.Item63Main;
 import org.example.item_64.Item64Main;
 import org.example.item_7.Item7Main;
+import org.example.item_78.Item78Main;
 import org.example.item_8_9.Item8and9Main;
 
 public class Index {
@@ -125,6 +126,7 @@ public class Index {
   Item62Main item62Main;
   Item63Main item63Main;
   Item64Main item64Main;
+  Item78Main item78Main; //Java Concurrency (Threads - Synchronized - AtomicBoolean - Volatile)
 
 
 }
