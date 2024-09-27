@@ -396,3 +396,13 @@ _
 /src/main/java/org/example/item_47/SubLists.java,e\3\e36f53d0bf96f52f82d5182f63c4545103453657
 a
 1src/main/java/org/example/item_78/Item78Main.java,8\c\8c676b9c1e39488990d20c92391778447b99a3df
+b
+2src/main/java/org/example/item_78/StopThread1.java,7\0\7010fc26e4e7c900610c1b29eabae40846c39caf
+b
+2src/main/java/org/example/item_78/StopThread2.java,f\3\f35a53d0a1f5498926ff505887f3fd4d530ed8ea
+b
+2src/main/java/org/example/item_78/StopThread3.java,5\f\5f93bc95a4a46f7595517c4cf986fbd6ff50098a
+b
+2src/main/java/org/example/item_78/StopThread4.java,d\a\da8b36b4c9dd1e8c567c045a7b28d52dae37dbe8
+a
+1src/main/java/org/example/item_79/Item79Main.java,b\e\bed62ae3ef6d993562297dd6dc1fe9ca1ab96bf8
