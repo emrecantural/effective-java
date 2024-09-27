@@ -60,6 +60,8 @@ import org.example.item_62.Item62Main;
 import org.example.item_63.Item63Main;
 import org.example.item_64.Item64Main;
 import org.example.item_7.Item7Main;
+import org.example.item_78.Item78Main;
+import org.example.item_79.Item79Main;
 import org.example.item_8_9.Item8and9Main;
 
 public class Index {
@@ -95,19 +97,19 @@ public class Index {
   Item32Main item32Main; //32. Java Varargs - Generic & Varargs
   Item33Main item33Main; // 33. Java Typesafe Heteregenous Map - (Java ile Api Tasarlamak için Altyapı)
   Item34Main item34Main; //34. Java Enums & Strategy Design Pattern (Enumlara Birde Böyle Bakın!)
-  Item35Main item35Main;
-  Item36Main item36Main;
-  Item37Main item37Main;
-  Item38Main item38Main;
-  Item39Main item39Main;
+  Item35Main item35Main; //35. Java Enum Ordinal - Enum Ordinalleri Kullanalım mı?
+  Item36Main item36Main; //36. Java Enumset - Java Bitwise Operations - Enumsetleri Kullanmanın Avantajları
+  Item37Main item37Main; //37. Java EnumMap - Doğru Enum Kullanım Örnekleri (Yazılım Değişime Direnmemeli!)
+  Item38Main item38Main; //38. Java Enum with Interfaces - Arayüzlerle Enum Tasarımı (Enum Hileleri)
+  Item39Main item39Main; //39. Java Reflection - (Mülakat Soru Adayı)
   Item40Main item40Main;
   Item41Main item41Main;
-  Item42Main item42Main;
-  Item43Main item43Main;
-  Item44Main item44Main;
-  Item45Main item45Main;
-  Item46Main item46Main;
-  Item47Main item47Main;
+  Item42Main item42Main; //43. Java Lambda Expressions & Anonymous Classes (Örnekli Anlatım)
+  Item43Main item43Main; //44. Method Reference Java 8 & Lambda (Kısa ve Okunabilirlik)
+  Item44Main item44Main; //45. Supplier Interface, BinaryOperator Interface (Elde Varsa Yenisini Yazma)
+  Item45Main item45Main; //   46. Java Streams Nedir? (Hangi Koşullarda Kullanmalıyım?)
+  Item46Main item46Main; // Java Stream Kullanırken Dikkat Edilmesi Gerekenler
+  Item47Main item47Main; //48. Java Stream vs Collection [Return Type] - (Senior Mülakat Sorusu!)
   Item48Main item48Main;
   Item49Main item49Main;
   Item50Main item50Main;
@@ -125,6 +127,8 @@ public class Index {
   Item62Main item62Main;
   Item63Main item63Main;
   Item64Main item64Main;
+  Item78Main item78Main; //Java Concurrency (Threads - Synchronized - AtomicBoolean - Volatile)
+  Item79Main item79Main; //Java Deadlock - Synchronized İpuçları
 
 
 }
